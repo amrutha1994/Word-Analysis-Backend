@@ -29,11 +29,12 @@ Input : JSON Object
 {
 	
 	"inputDescription" : "car cars Car Cart Carm Calm Carts",
-  "searchString" : "Car"
+  	"searchString" : "Car"
 }	
 
 
 # Sample Output: 
+
 {
     "frequency": 1,
     "similarWords": [
